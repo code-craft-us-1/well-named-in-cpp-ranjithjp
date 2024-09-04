@@ -12,6 +12,6 @@ public:
     static void testPairToNumber(TelCoColorCoder::MajorColor major, TelCoColorCoder::MinorColor minor,
         int expectedPairNumber);
 
-    static void ColorCodeTest::testcolorCodeManual();
+    static void testcolorCodeManual();
 
 };
